@@ -1,11 +1,12 @@
-const squaer = (price) => {
+const num = (price) => {
     (price + 3);
+    console.log(7);
 }
 
-squaer(7);
+
 
 const double = (num) => {
-    return num * 10;
+    return num **2;
 }
 
 console.log(double(10));
